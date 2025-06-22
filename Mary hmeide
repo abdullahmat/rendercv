@@ -1,0 +1,86 @@
+name: Mary Hmeide
+contact:
+  location: Jableh, Syria
+  email: maryhmeide@gmail.com
+  phone: "+963 937 385 871"
+  linkedin: https://facebook.com/MaryHmeide
+  github: https://instagram.com/maremhade
+
+sections:
+  - title: About Me
+    items:
+      - type: NormalEntry
+        title: Passionate Pharmacist
+        details:
+          - I love challenges and hard work with a happy ending. I am passionate about pharmacy and always look forward to improving my level of knowledge.
+
+  - title: Education
+    items:
+      - type: EducationEntry
+        title: Tishreen University, Degree in Pharmacy
+        date: 2019 – 2024
+      - type: EducationEntry
+        title: Super Pharmacist Office, Skin Care Principles
+        date: 2022
+
+  - title: Experience
+    items:
+      - type: ExperienceEntry
+        title: E-Marketing
+        subtitle: Remote via Mobile Phone
+        date: 2019 – Present
+        details:
+          - Promoted pharmaceutical and healthcare products via social media.
+          - Managed client interactions remotely and provided product details.
+
+      - type: ExperienceEntry
+        title: Pharmacy Intern
+        subtitle: Shahinaz Pharmacy – Jableh, Syria
+        date: 2022 – 2023
+        details:
+          - Gained hands-on experience in wholesale and retail pharmaceutical operations.
+          - Supported pharmacists in daily tasks and customer service.
+
+      - type: ExperienceEntry
+        title: Pharmacist Assistant
+        subtitle: Rama Pharmacy – Jableh, Syria
+        date: 2022 – Present
+        details:
+          - Helped with medication management and customer education.
+          - Participated in continuing education sessions within the pharmacy.
+
+      - type: ExperienceEntry
+        title: Volunteer Work for a Team
+        subtitle: DiPharma Academy – Syria
+        date: 2022 – Present
+        details:
+          - Provided medical insights and wrote reports on clinical cases and treatments.
+
+  - title: Skills
+    items:
+      - type: TextEntry
+        title: Languages
+        text: English (Intermediate)
+      - type: TextEntry
+        title: Software
+        text: ALAMENSOFT, Microsoft PowerPoint, Word, Excel
+
+  - title: References
+    items:
+      - type: OneLineEntry
+        title: Rama Pharmacy – Jableh, Syria
+        subtitle: 0930 608 705
+      - type: OneLineEntry
+        title: Shahinaz Pharmacy – Jableh, Syria
+        subtitle: 0988 358 248
+
+  - title: Hobbies
+    items:
+      - type: BulletEntry
+        title: Travel
+      - type: BulletEntry
+        title: Music
+      - type: BulletEntry
+        title: Writing
+      - type: BulletEntry
+        title: Chess
